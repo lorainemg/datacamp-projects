@@ -10,10 +10,7 @@ If you've never done a DataCamp project, this is the place to start.
 
 #### Habilities
 
-- `Data Manipulation`
-- `Data Visualization`
-- `Importing & Cleaning Data`
-- `Case Studies`
+- `Data Manipulation`, `Data Visualization`, `Importing & Cleaning Data`, `Case Studies`
 
 ### Investigating Netflix Movies and Guest Stars in The Office 
 
@@ -21,10 +18,7 @@ Apply the fundational Python skills you learned in Introduction to Python and In
 
 #### Habilities
 
-- `Data Manipulation`
-- `Data Visualization`
-- `Programming`
-- `Case Studies`
+- `Data Manipulation`, `Data Visualization`, `Programming`, `Case Studies`
 
 ### The GitHub History of the Scala Language
 
@@ -32,9 +26,7 @@ Find the true Scala experts by exploring its development history in Git and GitH
 
 #### Habilities
 
-- `Data Manipulation`
-- `Data Visualization`
-- `Importing & Cleaning Data`
+- `Data Manipulation`, `Data Visualization`, `Importing & Cleaning Data`
 
 ### The Android App Market on Google Play
 
@@ -42,16 +34,12 @@ Load, clean, and visualize scrapped Google Play Store data to gain insights into
 
 #### Habilities
 
-- `Data Manipulation`
-- `Data Visualization`
-- `Probability & Statistics`
-- `Importing & Cleaning Data`
+- `Data Manipulation`, `Data Visualization`, `Probability & Statistics`, `Importing & Cleaning Data`
   
 ### A Visual History of Nobel Prize Winners
 
 Explore a dataset from Kaggle containng a century's worth of Nobel Lauretes. Who won? Who got snubbed?
 
 #### Habilities
-- `Data Manipulation`
-- `Data Visualization`
-- `Importing & Cleaning Data`
+
+- `Data Manipulation`, `Data Visualization`, `Importing & Cleaning Data`
