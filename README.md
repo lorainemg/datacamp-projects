@@ -53,7 +53,7 @@ Load, clean, and visualize scrapped Google Play Store data to gain insights into
   
 #### Links:
 
-- [DataCamp Workspace]
+- [DataCamp Workspace](https://app.datacamp.com/workspace/w/188cdcfc-2f9a-414e-83aa-9a34c9386010)
 - [GitHub Repository](https://github.com/lorainemg/datacamp-projects/tree/main/The%20Android%20App%20Market%20on%20Google%20Play)
   
 ### A Visual History of Nobel Prize Winners
