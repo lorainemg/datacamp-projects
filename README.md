@@ -68,3 +68,16 @@ Explore a dataset from Kaggle containng a century's worth of Nobel Lauretes. Who
 
 - [DataCamp Workspace](https://app.datacamp.com/workspace/w/2e482cb5-86f5-4420-83b6-69755091940b)
 - [GitHub Repository](https://github.com/lorainemg/datacamp-projects/tree/main/A%20Visual%20History%20of%20Nobel%20Prize%20Winners)
+
+### Dr. Semmelweis and the Discovery of Handwashing
+
+Reanalyse the data behind one of the most important discoveries of modern medicine: handwashing.
+
+#### Habilities
+
+- `Data Manipulation`, `Data Visualization`,  `Probability & Statistics` `Importing & Cleaning Data`
+
+#### Links:
+
+- [DataCamp Workspace](https://app.datacamp.com/workspace/w/ea7ed198-e7d7-44ae-9446-a8bf151e7afc)
+- [GitHub Repository](
